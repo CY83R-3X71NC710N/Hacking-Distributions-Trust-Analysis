@@ -20,6 +20,6 @@ The analysis covers a wide range of Hacking Linux distributions, evaluating them
 
 The analysis results are provided in the following PDFs:
 
-- [Analysis of BlackArch Linux](./analysis/BlackArch Developer Trust Analysis.pdf)
+- [Analysis of BlackArch Linux](analysis/BlackArch Developer Trust Analysis.pdf)
 
 Please refer to these PDFs for detailed information on each distribution analyzed.
