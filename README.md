@@ -20,6 +20,10 @@ The analysis covers a wide range of Hacking Linux distributions, evaluating them
 
 The analysis results are provided in the following PDFs:
 
-- [Analysis of BlackArch Linux](./BlackArch%20Developer%20Trust%20Analysis.pdf)
+- [Athena OS Developer Trust Analysis.pdf](./Athena%20OS%20Developer%20Trust%20Analysis.pdf)
+- [BlackArch Developer Trust Analysis.pdf](./BlackArch%20Developer%20Trust%20Analysis.pdf)
+- [Kali Linux Developer Trust Analysis.pdf](./Kali%20Linux%20Developer%20Trust%20Analysis.pdf)
+- [ParrotOS Trust and Developer Research.pdf](./ParrotOS%20Trust%20and%20Developer%20Research.pdf)
+- [Pentoo Developer Trustworthiness Investigation.pdf](./Pentoo%20Developer%20Trustworthiness%20Investigation.pdf)
 
 Please refer to these PDFs for detailed information on each distribution analyzed.
