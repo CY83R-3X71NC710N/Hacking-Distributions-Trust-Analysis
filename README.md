@@ -20,10 +20,6 @@ The analysis covers a wide range of Hacking Linux distributions, evaluating them
 
 The analysis results are provided in the following PDFs:
 
-- [Analysis of Ubuntu](./analysis/ubuntu.pdf)
-- [Analysis of Fedora](./analysis/fedora.pdf)
-- [Analysis of Debian](./analysis/debian.pdf)
-- [Analysis of Arch Linux](./analysis/arch_linux.pdf)
-- [Analysis of OpenSUSE](./analysis/opensuse.pdf)
+- [Analysis of BlackArch Linux](./analysis/BlackArch Developer Trust Analysis.pdf)
 
 Please refer to these PDFs for detailed information on each distribution analyzed.
