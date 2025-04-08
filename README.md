@@ -30,5 +30,5 @@ Please refer to these PDFs for detailed information on each distribution analyze
 
 # Overall Recommendation:
 
-Athena OS For Homelabs
-Kali Linux or ParrotOS for critical production environments.
+- Athena OS For Homelabs
+- Kali Linux or ParrotOS for critical production environments.
