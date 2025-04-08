@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to analyze the trustworthiness of various Linux distributions. The analysis is based on several factors including security, privacy, and community support. The goal is to provide users with a comprehensive understanding of which Linux distributions are most trustworthy and why.
+This project aims to analyze the trustworthiness of various Hacking Linux distributions. The analysis is based on several factors including security, privacy, and community support. The goal is to provide users with a comprehensive understanding of which Linux distributions are most trustworthy and why.
 
 ## Purpose
 
