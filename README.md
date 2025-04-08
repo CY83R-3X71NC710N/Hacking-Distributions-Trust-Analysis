@@ -30,5 +30,6 @@ Please refer to these PDFs for detailed information on each distribution analyze
 
 # Overall Recommendation:
 
+- Low Trust: Blackarch Linux
 - Athena OS For Homelabs
 - Kali Linux or ParrotOS for critical production environments.
