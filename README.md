@@ -1,4 +1,4 @@
-# Linux Distributions Trust Analysis
+# Hacking Linux Distributions Trust Analysis
 
 ## Overview
 
@@ -14,7 +14,7 @@ To use this project, simply download the repository and open the PDF files conta
 
 ## Analysis of Linux Distributions
 
-The analysis covers a wide range of Linux distributions, evaluating them based on security, privacy, and community support. Each distribution is scored and ranked, with detailed explanations provided for each score. The goal is to provide a clear and comprehensive understanding of the trustworthiness of each distribution.
+The analysis covers a wide range of Hacking Linux distributions, evaluating them based on security, privacy, and community support. Each distribution is scored and ranked, with detailed explanations provided for each score. The goal is to provide a clear and comprehensive understanding of the trustworthiness of each distribution.
 
 ## Analysis Results
 
