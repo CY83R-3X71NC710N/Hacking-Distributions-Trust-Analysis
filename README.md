@@ -32,5 +32,6 @@ Please refer to these PDFs for detailed information on each distribution analyze
 
 # Overall Recommendation:
 
-- Athena OS For Homelabs
-- Kali Linux or ParrotOS for critical production environments. With Kali it is not just the toolset, it is the stable environment that comes with it, often in enterprise environments I find that Windows OS is used as a base, and I dislike windows, so being able to virtualize inside the windows environment and turn it into a GNU/Linux interface makes everything much better.
+- My opinion on ParrotOS (I don't like the theme)
+- Athena OS or Kali Linux (Preferred Kali Linux) For Homelabs
+- Kali Linux for critical production environments. With Kali it is not just the toolset, it is the stable environment that comes with it, often in enterprise environments I find that Windows OS is used as a base, and I dislike windows, so being able to virtualize inside the windows environment and turn it into a GNU/Linux interface makes everything much better.
